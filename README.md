@@ -32,9 +32,10 @@ Welcome to my solution for the Kaggle competition [**House Prices: Advanced Regr
   - ModelCheckpoint
 - TensorBoard integration for training visualization
 - Final performance:
-  - ✅ **Test RMSE**: ~28,450  
-  - ✅ **Test MAE**: ~19,595  
-  - ✅ **R² Score**: ~0.85
+  - ✅ **Test RMSE**: ~27,656  
+  - ✅ **Test MAE**: ~20,079  
+  - ✅ **R² Score**: ~ 0.86
+
 
 ### 🔹 2. (Optional) XGBoost Regressor (Not fully shown in this repo)
 - Feature engineering and selection
